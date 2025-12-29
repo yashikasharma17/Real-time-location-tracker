@@ -176,13 +176,3 @@ distance-tracker/
 
 ---
 
-## 🤝 Contributions
-
-Pull requests and suggestions welcome! This project is beginner-friendly and great for learning real-time apps with the MERN stack.
-
----
-
-## 👨‍💻 Author
-
-* **Project Lead**: Sohal Rahaman
-* For custom integrations or support, feel free to open an issue or PR.
