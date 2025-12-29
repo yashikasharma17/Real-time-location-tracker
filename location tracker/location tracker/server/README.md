@@ -109,13 +109,5 @@ server/
 
 ---
 
-## 🤝 Contributions
 
-Pull requests and suggestions are welcome! This project is beginner-friendly and a great way to learn about real-time applications with the MERN stack.
 
----
-
-## 👨‍💻 Author
-
-**Project Lead**: Sohal Rahaman  
-For custom integrations or support, feel free to open an issue or PR.
